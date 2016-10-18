@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','265691584:AAHm5gim38i05BXIpKL6iT-chzDOB_UWmt8');
+define('API_KEY','YOURBOTTOKEN');
 $admin = "110539965";
 $admin2 = "233503938";
 function bot($method,$datas=[]){
